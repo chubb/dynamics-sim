@@ -1,2 +1,2 @@
 # dynamics-sim
-My first C++ project, a dynamics simulation
+A personal project to improve my comfort with C++. It is a generalized dynamics simulation.
